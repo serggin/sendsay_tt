@@ -1,2 +1,2 @@
 # sendsay_tt
-Test kask for sensay
+Test task for sensay
