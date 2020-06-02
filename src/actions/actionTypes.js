@@ -1,0 +1,7 @@
+export const SET_SCREEN = 'SET_SCREEN';
+export const SET_SENDSAY = 'SET_SENDSAY';
+
+export const ADD_REQUEST = 'ADD_REQUEST';
+export const REMOVE_REQUEST = 'REMOVE_REQUEST';
+export const CLEAR_HISTORY = 'CLEAR_HISTORY';
+export const REORDER_HISTORY = 'REORDER_HISTORY';
